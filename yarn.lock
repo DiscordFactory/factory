@@ -51,20 +51,20 @@
   resolved "https://registry.yarnpkg.com/@discord-factory/core-commands/-/core-commands-2.0.1.tgz#721d52f973ce42a4bf4eab72eac43fc3fc17e42d"
   integrity sha512-v5PqrEu6RaekEv4SV51ZXCTcijpLbQEDh34xokPkqpQNDaz0Ujf0vEMfRr/RnqHVMgITrN/jC1So26dgqPn+vQ==
   dependencies:
-    "@discord-factory/core-next" "2.0.0"
+    "@discord-factory/core-next" "4.0.1"
     "@leadcodedev/logger" "^1.0.0"
     "@typescript-eslint/eslint-plugin" "^4.31.1"
     "@typescript-eslint/parser" "^4.31.1"
     discord.js "^13.1.0"
     enquirer "^2.3.6"
 
-"@discord-factory/core-next@2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@discord-factory/core-next/-/core-next-2.0.0.tgz#c7ad3fa30931b5a7f44801d0a933b9396d3fd915"
+"@discord-factory/core-next@4.0.1":
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/@discord-factory/core-next/-/core-next-4.0.1.tgz#c7ad3fa30931b5a7f44801d0a933b9396d3fd915"
   integrity sha512-j3WN3pAQBWuMcRMTzmWW+YU3OK6TC7tjQbFwTOENFpcES5KS1G7FaqSt0dLUlvhHYhDAr17BjT2sx+v8/r+Zmw==
   dependencies:
     "@babel/eslint-parser" "^7.15.4"
-    "@discord-factory/core-next" "^1.4.1"
+    "@discord-factory/core-next" "^4.0.1"
     "@leadcodedev/logger" "^1.0.0"
     "@typescript-eslint/eslint-plugin" "^4.31.1"
     "@typescript-eslint/parser" "^4.31.1"
@@ -97,7 +97,7 @@
   integrity sha512-R4YSeHZ9VfSepNRKfTiLSnja0d++mgG3urcVcV0J0TD2wCevBhduQkvmjcXoeaR7o9NMAoG37vGLAtePfEM/cw==
   dependencies:
     "@babel/eslint-parser" "^7.15.4"
-    "@discord-factory/core-next" "^1.4.1"
+    "@discord-factory/core-next" "^4.0.1"
     "@leadcodedev/logger" "^1.0.0"
     "@typescript-eslint/eslint-plugin" "^4.31.1"
     "@typescript-eslint/parser" "^4.31.1"
